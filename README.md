@@ -1,5 +1,6 @@
 Model:
 - https://drive.google.com/file/d/1HFvSXT3IgHiNbaaPOEYP0gaZaxuoeEc4/view?usp=sharing
+
 Info:
 - Architecture: AlexNet
 - Library: PyTorch
