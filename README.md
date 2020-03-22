@@ -7,6 +7,7 @@ Info:
 - Accuracy: 99.64%
 - Number of iterations: 130
 - Batch size: 128
+- Activation function: Relu
 - Cost function: Cross Entropy Loss
 - Optimizing algorithm: Stochastic Gradient Descent
 - Learning rate: 0.01
